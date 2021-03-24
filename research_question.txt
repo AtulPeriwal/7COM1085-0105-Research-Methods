@@ -1,0 +1,19 @@
+# Research Question - Group 05
+
+Members: Mahmoud Sayed Hussien Khalel
+
+Topic: Cyber Security
+
+RQ: What types of security impacts occurred by the pandemic to the cyber world?
+
+Context: Cyber Security Attacks
+
+Population: Individuals and organizations
+
+Intervention: Criteria to cosider an attack or humar mistake
+
+Comparison: Different types of cyber attacks including malware, spyware and phishing
+
+Outcome: Attack prevention and solution
+
+
